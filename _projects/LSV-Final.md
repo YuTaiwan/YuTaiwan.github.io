@@ -8,7 +8,7 @@ collection: projects
 
 ## Report Link
 [PDF Report](https://YuTaiwan.github.io/files/LSV_report.pdf)
-[PPT Slides](https://YuTaiwan.github.io/files/LSV_slides.pptx)
+[PPT Slides](https://YuTaiwan.github.io/files/LSV_slides.pdf)
 
 ## Abstract
 
