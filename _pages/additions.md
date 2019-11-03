@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Addtions"
+title: "Additions"
 permalink: /additions/
 author_profile: true
 redirect_from:
