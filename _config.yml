@@ -82,9 +82,8 @@ analytics:
 author:
   name             : "Sheng-Jung Yu"
   avatar           : "profile.png"
-  bio              : "I am currently a senior undergraduate student in Department of Electrical Engineering at National Taiwan University.
-My research interests include Electronic Design Automation (EDA) and Integrated Circuit System Design
-In particular, I am interested in physical design automation and design for manufacturability."
+  bio              : "Undergraduate Researcher in Department of Electrical Engineering at National Taiwan University.
+My research interests include Electronic Design Automation (EDA) and Integrated Circuit System Design"
   location         : "Taipei, Taiwan"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
