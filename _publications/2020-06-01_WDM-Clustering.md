@@ -3,7 +3,7 @@ title: "A Provably Good Wavelength-Division-Multiplexing-Aware Clustering Algori
 collection: publications
 permalink: /publication/2020-06-01_WDM-Clustering
 excerpt: 'This paper is about the Wavelength-Division-Multiplexing-Aware Clustering Algorithm For On-Chip Optical Routing (<i>Submitted</i>).'
-date: 2020-06-01
+date: 2020-07-13
 ---
 This paper is about the Wavelength-Division-Multiplexing-Aware Clustering Algorithm For On-Chip Optical Routing.
 

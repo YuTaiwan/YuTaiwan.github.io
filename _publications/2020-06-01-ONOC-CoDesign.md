@@ -3,7 +3,7 @@ title: "Optical Network Structure and Physical Routing Codesign"
 collection: publications
 permalink: /publication/2020-06-01-ONOC-CoDesign
 excerpt: 'This paper is about the Codesign of Network Structure and Physical Routing for Optical Networks-On-Chips System (<i>Submitted</i>).'
-date: 2020-06-01
+date: 2020-07-13
 ---
 This paper is about the Codesign of Network Structure and Physical Routing for Optical Networks-On-Chips System.
 
