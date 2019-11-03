@@ -1,6 +1,6 @@
 ---
 title: "Range-Preserving Logic Relation Determinization"
-excerpt: "Range-Preserving Logic Relation Determinization<br/><img src='/images/500x300.png'>"
+excerpt: "Range-Preserving Logic Relation Determinization"
 collection: project
 ---
 
