@@ -43,6 +43,13 @@ Research experience
     * Designed and Implemented an <u>equivalent capacitance guided dummy fill insertion engine</u> for 2018 ICCAD contest.
     * Outperformed all contest winners and the state-of-the-art work by over 27%.
     * Published in **Asia and South Pacific Design Automation Conference 2020** and the paper was **nominated as best paper**.
+    
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
 
 Skills
 ======
@@ -50,12 +57,9 @@ Skills
 * Programming Languages: C/C++, Python, LaTeX, Matlab, Verilog
 * EDA tools            : nWave, ncverilog, Design Compiler, Innovus, SPICE
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+
+
+<!--
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -67,4 +71,5 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
