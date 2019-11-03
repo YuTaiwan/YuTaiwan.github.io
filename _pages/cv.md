@@ -8,8 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
+
 [PDF version](https://YuTaiwan.github.io/files/CV_of_Sheng_Jung_Yu.pdf)
-======
 
 
 Education
