@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Addtion"
-permalink: /addition/
+permalink: /additions/
 author_profile: true
 redirect_from:
   - /resume
