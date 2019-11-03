@@ -3,6 +3,8 @@ title: "LED Display Controller"
 excerpt: "We implemented a LED display controller which receives multiple gray-level images in Verilog and then uses EDA tools to generate the layout.<br/><img src='/images/LED_block.png'>"
 collection: projects
 ---
+## Team Menber
+**Sheng-Jung Yu** and Zih-Sing Fu
 
 ### Report Link
 [PDF Report](https://YuTaiwan.github.io/files/CVSD_report.pdf)

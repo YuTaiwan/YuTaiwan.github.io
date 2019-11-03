@@ -3,6 +3,12 @@ title: "Range-Preserving Logic Relation Determinization"
 excerpt: "An exploration of algorithms to achieve range-preserving determinization.<br/><img src='/images/LSV_final.png'>"
 collection: projects
 ---
+## Team Menber
+**Sheng-Jung Yu** and Tung-Wei Lin
+
+## Report Link
+[PDF Report](https://YuTaiwan.github.io/files/LSV_report.pdf)
+[PPT Slides](https://YuTaiwan.github.io/files/LSV_slides.pptx)
 
 ## Abstract
 
