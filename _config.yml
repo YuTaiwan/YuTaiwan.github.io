@@ -188,7 +188,9 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
+  additions:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -245,7 +247,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
-
+  # _additions
+  - scope:
+      path: ""
+      type: additions
+    values:
+      layout: single
+      author_profile: true
+      share: true
 # Sass/SCSS
 sass:
   sass_dir: _sass
