@@ -25,12 +25,12 @@ Research experience
 *Undergraduate Research Assistant*, EDA LAB, NTU, 2017-2019
 * Project: Optical Network-on-Chip (ONoCs) Design Automation. 
     * Proposed and implemented an <u> automated structural and physical co-design engine</u> for Optical Network-on-Chip System.
-    * Outperformed the state-of-the-art ONoCs work by 40\% reduction in maximum insertion loss.
+    * Outperformed the state-of-the-art ONoCs work by 40% reduction in maximum insertion loss.
     * Submitted to **Design Automation Conference 2020**
 
 * Project: Optical Interconnect Routing
     * Proposed and implemented a <u>WDM-aware clustering algorithm</u> to minimize both insertion loss and wire length.
-    * Outperformed the state-of-the-art algorithm by 60\% insertion loss reduction and 45\% wire length reduction.
+    * Outperformed the state-of-the-art algorithm by 60% insertion loss reduction and 45% wire length reduction.
     * Submitted to **Design Automation Conference 2020**
 
 *Undergraduate Research Assistant*, DCS LAB, NTU, 2017-2019
