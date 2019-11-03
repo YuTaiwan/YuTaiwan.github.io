@@ -2,7 +2,7 @@
 title: "Equivalent Capacitance Guided Dummy Fill Insertion"
 collection: publications
 permalink: /publication/2020-01-14-Dummy-Fill
-excerpt: 'We designed and implemented an Equivalent Capacitance Guided Dummy Fill Insertion Engine to mitigate the timing impact caused by dummy fills'
+excerpt: 'We designed and implemented an Equivalent Capacitance Guided Dummy Fill Insertion Engine to mitigate the timing impact caused by dummy fills<img src='/images/Dummy_Fill_Layout.png'>'
 date: 2020-01-14
 venue: 'Asia and South Pacific Design Automation Conference'
 
