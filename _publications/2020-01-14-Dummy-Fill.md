@@ -9,7 +9,7 @@ venue: 'Asia and South Pacific Design Automation Conference'
 citation: 'Sheng-Jung Yu, Chen-Chien Kao, Chia-Han Huang and Iris Hui-Ju Jiang. &quot;Equivalent Capacitance Guided Dummy Fill Insertion,&quot; <i>ASPDAC-20</i>.'
 ---
 
-We designed and implemented a Equivalent Capacitance Guided Dummy Fill Insertion Engine to mitigate the timing impact caused by dummy fills
+We designed and implemented an Equivalent Capacitance Guided Dummy Fill Insertion Engine to mitigate the timing impact caused by dummy fills
 ![Dummy Fill Insertion](https://YuTaiwan.github.io/images/Dummy_Fill_Layout.png "Result Layout")
 
 To improve manufacturability, dummy fill insertion is widely adopted for reducing the thickness variation after chemical mechanical polishing.
