@@ -2,10 +2,10 @@
 title: "Equivalent Capacitance Guided Dummy Fill Insertion"
 collection: publications
 permalink: /publication/2020-01-14-Dummy-Fill
-excerpt: "We designed and implemented a timing-aware dummy fill insertion Engine by estimation and mitigation of the equivalent capacitance caused by the dummy fills<br/><img src='/images/Dummy_Fill_Layout.png'>"
+excerpt: "We designed and implemented a timing-aware dummy fill insertion Engine by estimation and mitigation of the equivalent capacitance caused by the dummy fills <b>Best Paper Nominee</b> <br/><img src='/images/Dummy_Fill_Layout.png'>"
 date: 2020-01-14
 venue: 'Asia and South Pacific Design Automation Conference'
-citation: 'Sheng-Jung Yu, Chen-Chien Kao, Chia-Han Huang and Iris Hui-Ju Jiang. &quot;Equivalent Capacitance Guided Dummy Fill Insertion,&quot; <i>ASPDAC-20</i>.'
+citation: '<b>Sheng-Jung Yu</b>, Chen-Chien Kao, Chia-Han Huang and Iris Hui-Ju Jiang. &quot;Equivalent Capacitance Guided Dummy Fill Insertion,&quot; <i>ASPDAC-20</i>.'
 ---
 
 ## abstract
