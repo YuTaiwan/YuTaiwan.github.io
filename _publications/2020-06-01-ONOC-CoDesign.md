@@ -12,4 +12,4 @@ This paper is about the Codesign of Network Structure and Physical Routing for O
 
 [Download paper here](http://academicpages.github.io/files/paper2.pdf)
 
-Yu-Sheng Lu, Sheng-Jung Yu and Yao-Wen Chang &quot;Optical Network Structure and Physical Routing Codesign, &quot; <i>DAC-20</i>.
+Recommended citation: Yu-Sheng Lu, Sheng-Jung Yu and Yao-Wen Chang &quot;Optical Network Structure and Physical Routing Codesign, &quot; <i>DAC-20</i>.
