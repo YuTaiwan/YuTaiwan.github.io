@@ -18,4 +18,6 @@ The analysis can wisely guide dummy fill insertion to prevent unwanted and unnec
 Experimental results based on the ICCAD 2018 CAD Contest benchmark suite show that our solution outperforms the contest winning teams and state-of-the-art work.
 Moreover, our analysis results are highly correlated to actual equivalent capacitance values and indeed provide accurate guidance for timing-aware dummy fill insertion.
 
-![Dummy Fill Insertion]("/image/Dummy_Fill_Layout.png" "Result Layout")
+
+Test Picture
+![Dummy Fill Insertion]("image/Dummy_Fill_Layout.png" "Result Layout")
