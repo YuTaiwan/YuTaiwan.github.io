@@ -8,10 +8,16 @@ redirect_from:
 ---
 
 {% include base_path %}
+[PDF version](https://YuTaiwan.github.io/files/CV_of_Sheng_Jung_Yu.pdf)
+======
+
 
 Education
 ======
 * B.S. in Dept. Electrical Engineering, National Taiwan University (NTU), 2015-2019
+  * Overall GPA: **4.28**/4.30
+  * Major   GPA: **4.29**/4.30
+  * Class  Rank:   **1** / 190
 
 Research experience
 ======
@@ -31,7 +37,7 @@ Research experience
     * Designed an <u>accelerator for the end-to-end encryption Signal Protocol</u>.
     * Designed hardware architecture for cryptographics primitives including SHA-256, Elliptic Curve 25519, AES-256
   
-* *Undergraduate Research Assistant*, DCS LAB, NTU, 2017-2019
+* *Undergraduate Research Assistant*, Iris LAB, NTU, 2017-2019
   * Project: Timing-Aware Fill Insertion
     * Designed and Implemented an <u>equivalent capacitance guided dummy fill insertion engine</u> for 2018 ICCAD contest.
     * Outperformed all contest winners and the state-of-the-art work by over 27%.
