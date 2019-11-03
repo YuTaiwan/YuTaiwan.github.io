@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Additions2"
-permalink: /additions2/
+title: "Additions21212121"
+permalink: /additions23/
 author_profile: true
 redirect_from:
   - /resume
