@@ -1,6 +1,6 @@
 ---
 title: "LED Display Controller"
-excerpt: "LED Display Controller"
+excerpt: "LED Display Controller<br/><img src='/images/500x300.png'>"
 collection: projects
 ---
 
