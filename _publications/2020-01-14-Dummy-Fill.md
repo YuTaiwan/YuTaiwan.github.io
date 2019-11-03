@@ -8,6 +8,8 @@ venue: 'IEEE/ACM Asia and South Pacific Design Automation Conference'
 citation: '<b>Sheng-Jung Yu</b>, Chen-Chien Kao, Chia-Han Huang and Iris Hui-Ju Jiang. &quot;Equivalent Capacitance Guided Dummy Fill Insertion,&quot; in <i> Proceedings of IEEE/ACM Asia and South Pacific Design Automation Conference</i>, 2020.'
 ---
 
+This paper is **nominated as best paper candidate**
+
 ## abstract
 
 To improve manufacturability, dummy fill insertion is widely adopted for reducing the thickness variation after chemical mechanical polishing.
