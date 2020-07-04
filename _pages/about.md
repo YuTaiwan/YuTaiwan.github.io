@@ -13,7 +13,7 @@ Welcome to my website!
 
 My name is Sheng-Jung Yu, I will start my Ph.D study at [EECS, UC Berkeley][Link_EECS_UCBerkeley], supervised by [Alberto Sangiovanni-Vincentelli][Link_Alberto].
 
-I obtained my bechelor degree in [Electrical Engineering in National Taiwan University][Link_NTUEE]().
+I obtained my bechelor degree in [Electrical Engineering in National Taiwan University][Link_NTUEE].
 During the undergraduate, I worked with [Prof. Yao-Wen Chang][Link_YWC] and [Prof. Iris Hui-Ru Jiang][Link_IHRJ] on Physical Design
 I also worked with [Prof. Chia-Hsiang Yang][Link_CHY] on digital VLSI design.
 

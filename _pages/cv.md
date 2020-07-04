@@ -8,8 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
+Last Updated: July 4th 2020
 
 [PDF version](https://YuTaiwan.github.io/files/CV_of_Sheng_Jung_Yu.pdf)
+
 
 <!--
 Education
