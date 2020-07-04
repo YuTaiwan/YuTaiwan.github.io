@@ -82,12 +82,13 @@ analytics:
 author:
   name             : "Sheng-Jung Yu"
   avatar           : "photo_square.jpg"
-  bio              : "Undergraduate Researcher in Department of Electrical Engineering at National Taiwan University.
-My research interests include Electronic Design Automation (EDA) and Integrated Circuit System Design"
+  bio              : "Ph.D. student at EECS, UC Berkeley"
   location         : "Taipei, Taiwan"
+  googlescholar    : "https://scholar.google.com/citations?user=dxm3Jc0AAAAJ"
+  github           : "YuTaiwan"
+  linkedin         : "shengjungyu"
   employer         :
   pubmed           : 
-  googlescholar    : 
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -97,13 +98,11 @@ My research interests include Electronic Design Automation (EDA) and Integrated 
   flickr           :
   facebook         :
   foursquare       :
-  github           : "YuTaiwan"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "sheng-jung-yu-2747b5185"
   orcid            : 
   pinterest        :
   soundcloud       :

@@ -11,11 +11,23 @@ redirect_from:
 
 Welcome to my website!
 
-My name is Sheng-Jung Yu, I received my bechelor degree in Electrical Engineering in National Taiwan University.
-I am currently applying for 2020 Fall Ph.D programs.
+My name is Sheng-Jung Yu, I will start my Ph.D study at [EECS, UC Berkeley][Link_EECS_UCBerkeley], supervised by [Alberto Sangiovanni-Vincentelli][Link_Alberto].
+
+I obtained my bechelor degree in [Electrical Engineering in National Taiwan University][Link_NTUEE]().
+During the undergraduate, I worked with [Prof. Yao-Wen Chang][Link_YWC] and [Prof. Iris Hui-Ru Jiang][Link_IHRJ] on Physical Design
+I also worked with [Prof. Chia-Hsiang Yang][Link_CHY] on digital VLSI design.
+
 My research interests include electronic design automation, integrated circuit design and optical networks-on-chips system.
 
 Feel free to contact me shengjungyu [AT] gmail [DOT] com
+
+
+[Link_EECS_UCBerkeley]: https://eecs.berkeley.edu/
+[Link_Alberto]: http://people.eecs.berkeley.edu/~alberto/?_ga=2.104293954.338687419.1593849867-1156320070.1593849867
+[Link_NTUEE]: https://web.ee.ntu.edu.tw/eng/index.php
+[Link_YWC]:http://cc.ee.ntu.edu.tw/~ywchang/
+[Link_IHRJ]:http://w3.ee.ntu.edu.tw/profile1?id=1060726
+[Link_CHY]:http://cc.ee.ntu.edu.tw/~dcslab/faculty.html
 
 <!--This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 

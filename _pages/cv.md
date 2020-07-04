@@ -11,9 +11,10 @@ redirect_from:
 
 [PDF version](https://YuTaiwan.github.io/files/CV_of_Sheng_Jung_Yu.pdf)
 
-
+<!--
 Education
 ======
+Ph.D. 
 B.S. in Dept. Electrical Engineering, National Taiwan University (NTU), 2015-2019
 
 *   Overall GPA: **4.28**/4.30
@@ -55,7 +56,7 @@ Skills
 ======
 * Natural Languages    : Mandarin (Native), Taiwanese (Native), English (Proficient), Japanese (Intermediate, JLPT N3)
 * Programming Languages: C/C++, Python, LaTeX, Matlab, Verilog
-* EDA tools            : nWave, ncverilog, Design Compiler, Innovus, SPICE
+* EDA tools            : nWave, ncverilog, Design Compiler, Innovus, SPICE-->
 
 
 
