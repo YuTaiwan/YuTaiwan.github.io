@@ -17,9 +17,9 @@ I obtained my bechelor's degree at [EE, NTU][Link_NTUEE].
 During the undergraduate, I worked with [Prof. Yao-Wen Chang][Link_YWC] and [Prof. Iris Hui-Ru Jiang][Link_IHRJ] on Physical Design.
 I also worked with [Prof. Chia-Hsiang Yang][Link_CHY] on digital VLSI design.
 
-My research interests include electronic design automation, integrated circuit design and optical networks-on-chips system.
+My research interests include electronic design automation, integrated circuit design and optical networks-on-chip systems.
 
-Feel free to contact me shengjungyu [AT] berkeley [DOT] edu
+Feel free to contact me shengjungyu [AT] berkeley [DOT] edu.
 
 
 [Link_EECS_UCBerkeley]: https://eecs.berkeley.edu/
