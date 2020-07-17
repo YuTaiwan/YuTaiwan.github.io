@@ -11,13 +11,13 @@ redirect_from:
 
 Welcome to my website!
 
-My name is Sheng-Jung Yu, I will start my Ph.D study at [EECS, UC Berkeley][Link_EECS_UCBerkeley], supervised by [Alberto Sangiovanni-Vincentelli][Link_Alberto].
+My name is Sheng-Jung Yu, I will start my Ph.D. study at [EECS, UC Berkeley][Link_EECS_UCBerkeley], supervised by [Alberto Sangiovanni-Vincentelli][Link_Alberto].
 
 I obtained my bachelor's degree at [EE, NTU][Link_NTUEE].
 During the undergraduate, I worked with [Prof. Yao-Wen Chang][Link_YWC] and [Prof. Iris Hui-Ru Jiang][Link_IHRJ] on Physical Design.
 I also worked with [Prof. Chia-Hsiang Yang][Link_CHY] on digital VLSI design.
 
-My research interests include electronic design automation, integrated circuit design and optical networks-on-chip systems.
+My research interests include electronic design automation, integrated circuit design, and optical networks-on-chip systems.
 
 Feel free to contact me shengjungyu [AT] berkeley [DOT] edu.
 
